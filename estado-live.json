@@ -5,7 +5,9 @@
       "ELAINE VICENTE SANTOS",
       "VALTER RODRIGUES DE SOUZA"
     ],
-    "PACKING MONO": [],
+    "PACKING MONO": [
+      "JACKELINE SOUZA DA SILVA"
+    ],
     "PUTWALL": [],
     "SHIPPING": [],
     "BATCH SORTER": [],
@@ -23,5 +25,5 @@
     "RUAN BARROS DE SA SILVA",
     "THALIA CRISTINA PEREIRA DA SILVA SOARES"
   ],
-  "ts": 1784985197652
+  "ts": 1784985209446
 }
