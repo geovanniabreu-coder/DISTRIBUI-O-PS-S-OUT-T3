@@ -1,6 +1,8 @@
 {
   "DT": {
-    "PICKING": [],
+    "PICKING": [
+      "CLERISSON DA SILVA LIMA"
+    ],
     "PACKING MONO": [
       "ANA PAULA MOREIRA DE LIMA"
     ],
@@ -17,5 +19,5 @@
     "RUAN BARROS DE SA SILVA",
     "THALIA CRISTINA PEREIRA DA SILVA SOARES"
   ],
-  "ts": 1784980950858
+  "ts": 1784980954370
 }
