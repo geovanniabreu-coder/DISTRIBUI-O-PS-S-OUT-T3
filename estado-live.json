@@ -1,11 +1,12 @@
 {
   "DT": {
     "PICKING": [
-      "ANA PAULA MOREIRA DE LIMA",
       "FABRICIO DE ASSIZ SOUSA",
       "FERNANDA PEDROSO CINTRA DA SILVA"
     ],
-    "PACKING MONO": [],
+    "PACKING MONO": [
+      "ANA PAULA MOREIRA DE LIMA"
+    ],
     "PUTWALL": [],
     "SHIPPING": [],
     "BATCH SORTER": [],
@@ -19,5 +20,5 @@
     "RUAN BARROS DE SA SILVA",
     "THALIA CRISTINA PEREIRA DA SILVA SOARES"
   ],
-  "ts": 1784983642082
+  "ts": 1784983644429
 }
