@@ -1,14 +1,13 @@
 {
   "DT": {
     "PICKING": [
-      "CLERISSON DA SILVA LIMA"
+      "CLERISSON DA SILVA LIMA",
+      "ELAINE VICENTE SANTOS"
     ],
     "PACKING MONO": [
       "ANA PAULA MOREIRA DE LIMA"
     ],
-    "PUTWALL": [
-      "ELAINE VICENTE SANTOS"
-    ],
+    "PUTWALL": [],
     "SHIPPING": [],
     "BATCH SORTER": [],
     "SINERGIA": []
@@ -21,5 +20,5 @@
     "RUAN BARROS DE SA SILVA",
     "THALIA CRISTINA PEREIRA DA SILVA SOARES"
   ],
-  "ts": 1784981034644
+  "ts": 1784983016779
 }
