@@ -1,25 +1,11 @@
 {
   "DT": {
-    "PICKING": [
-      "FABRICIO DE ASSIZ SOUSA",
-      "FERNANDA PEDROSO CINTRA DA SILVA"
-    ],
-    "PACKING MONO": [
-      "ANA PAULA MOREIRA DE LIMA",
-      "GIOVANA CINTRA DE SOUSA"
-    ],
-    "PUTWALL": [
-      "ITACIARA SILVA DA COSTA"
-    ],
-    "SHIPPING": [
-      "JACKELINE SOUZA DA SILVA"
-    ],
-    "BATCH SORTER": [
-      "LUANA CAMILA LEONOR GALVIS"
-    ],
-    "SINERGIA": [
-      "STEFANI OLIVEIRA ALMEIDA DE SOUSA"
-    ]
+    "PICKING": [],
+    "PACKING MONO": [],
+    "PUTWALL": [],
+    "SHIPPING": [],
+    "BATCH SORTER": [],
+    "SINERGIA": []
   },
   "SUBZ": {},
   "EDITORS": [
@@ -29,5 +15,5 @@
     "RUAN BARROS DE SA SILVA",
     "THALIA CRISTINA PEREIRA DA SILVA SOARES"
   ],
-  "ts": 1784983668465
+  "ts": 1784984411611
 }
