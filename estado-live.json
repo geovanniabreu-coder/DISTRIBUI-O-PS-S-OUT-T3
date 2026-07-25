@@ -1,6 +1,8 @@
 {
   "DT": {
-    "PICKING": [],
+    "PICKING": [
+      "MIQUEIAS NEWTON DE LUCENA PEIXOTO"
+    ],
     "PACKING MONO": [],
     "PUTWALL": [],
     "SHIPPING": [],
@@ -15,5 +17,5 @@
     "RUAN BARROS DE SA SILVA",
     "THALIA CRISTINA PEREIRA DA SILVA SOARES"
   ],
-  "ts": 1784984426528
+  "ts": 1784984989451
 }
