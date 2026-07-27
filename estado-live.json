@@ -1,7 +1,9 @@
 {
   "DT": {
     "PICKING": [],
-    "PACKING MONO": [],
+    "PACKING MONO": [
+      "JACKELINE SOUZA DA SILVA"
+    ],
     "PUTWALL": [],
     "SHIPPING": [
       "VALTER RODRIGUES DE SOUZA"
@@ -18,5 +20,5 @@
     "THALIA CRISTINA PEREIRA DA SILVA SOARES",
     "ANA LUISA DA SILVA PONTES"
   ],
-  "ts": 1785112769938
+  "ts": 1785112797538
 }
