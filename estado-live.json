@@ -1,6 +1,8 @@
 {
   "DT": {
-    "PICKING": [],
+    "PICKING": [
+      "ARIANE DOS SANTOS SILVA"
+    ],
     "PACKING MONO": [],
     "PUTWALL": [
       "ANA PAULA MOREIRA DE LIMA"
@@ -18,5 +20,5 @@
     "THALIA CRISTINA PEREIRA DA SILVA SOARES",
     "ANA LUISA DA SILVA PONTES"
   ],
-  "ts": 1785345217329
+  "ts": 1785345222904
 }
