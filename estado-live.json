@@ -1,6 +1,8 @@
 {
   "DT": {
-    "PICKING": [],
+    "PICKING": [
+      "FABRICIO DE ASSIZ SOUSA"
+    ],
     "PACKING MONO": [
       "CESAR DE SOUSA ARAUJO"
     ],
@@ -24,5 +26,5 @@
     "THALIA CRISTINA PEREIRA DA SILVA SOARES",
     "ANA LUISA DA SILVA PONTES"
   ],
-  "ts": 1785884077273
+  "ts": 1785884087666
 }
