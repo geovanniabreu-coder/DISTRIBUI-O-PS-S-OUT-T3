@@ -3,7 +3,9 @@
     "PICKING": [
       "ANA LUISA DA SILVA PONTES"
     ],
-    "PACKING MONO": [],
+    "PACKING MONO": [
+      "ANA PAULA MOREIRA DE LIMA"
+    ],
     "PUTWALL": [],
     "SHIPPING": [],
     "BATCH SORTER": [],
@@ -18,5 +20,5 @@
     "THALIA CRISTINA PEREIRA DA SILVA SOARES",
     "ANA LUISA DA SILVA PONTES"
   ],
-  "ts": 1786269290483
+  "ts": 1786269295821
 }
