@@ -2,7 +2,9 @@
   "DT": {
     "PICKING": [],
     "PACKING MONO": [],
-    "PUTWALL": [],
+    "PUTWALL": [
+      "ANA PAULA MOREIRA DE LIMA"
+    ],
     "SHIPPING": [],
     "BATCH SORTER": [],
     "SINERGIA": []
@@ -16,5 +18,5 @@
     "THALIA CRISTINA PEREIRA DA SILVA SOARES",
     "ANA LUISA DA SILVA PONTES"
   ],
-  "ts": 1786400149285
+  "ts": 1786400305827
 }
