@@ -5,7 +5,9 @@
     "PUTWALL": [
       "ANA PAULA MOREIRA DE LIMA"
     ],
-    "SHIPPING": [],
+    "SHIPPING": [
+      "CESAR DE SOUSA ARAUJO"
+    ],
     "BATCH SORTER": [],
     "SINERGIA": []
   },
@@ -18,5 +20,5 @@
     "THALIA CRISTINA PEREIRA DA SILVA SOARES",
     "ANA LUISA DA SILVA PONTES"
   ],
-  "ts": 1786400305827
+  "ts": 1786400340925
 }
